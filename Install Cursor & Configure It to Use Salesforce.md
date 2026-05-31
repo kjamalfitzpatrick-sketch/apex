@@ -47,7 +47,7 @@ On first launch, Cursor walks you through a few quick screens:
 
 ---
 
-## Step 4 — Open a project and start using Claude
+## Step 4 — Open a project and start using Claude (YOU CAN ASK CLAUDE TO CREEATE A SAMPLE PROJECT FOR YOU!)
 
 1. **File → Open Folder** (`Ctrl+K Ctrl+O`) and pick a code folder.
 2. Press **`Ctrl+L`** to open chat, confirm **Claude** is selected, and ask away.
